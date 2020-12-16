@@ -18,7 +18,7 @@ sections:
     subtitle: Cerca la tua prossima vacanza
     image: images/DSC_4418.jpg
     cta:
-      title: Discover
+      title: Scopri tutte le offerte
       url: /store
 template: store
 ---
