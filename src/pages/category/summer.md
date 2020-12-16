@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: Sughi
 order: 4
 section: Store
 template: category
