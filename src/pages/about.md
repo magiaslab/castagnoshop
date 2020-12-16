@@ -7,12 +7,15 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: Il Castagno Toscana
     subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+      Il Castagno Toscana è un residence incastonato nelle colline della Costa
+      degli etruschi, a due passi dal mare e da alcuni dei borghi medievali più
+      famosi d'Italia.
+
+
+      La nostra accoglienza dura da più di trent'anni ed abbiamo deciso di
+      renderla disponibile tutto l'anno portando alcuni dei nostri prodotti
+      direttamente a casa tua, per farti ricordare di noi anche quando non è
+      possibile averti come ospite.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
