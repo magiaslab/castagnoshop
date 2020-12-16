@@ -3,7 +3,7 @@ id: '1'
 price: '49.40'
 title: Olio EVO 2020
 description: Olio di oliva Extravergine spremitura 2020
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: images/IMG_3444.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
