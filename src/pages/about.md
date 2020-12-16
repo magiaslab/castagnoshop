@@ -1,5 +1,5 @@
 ---
-title: About
+title: Chi siamo
 page_css_class: gray-background
 sections:
   - type: header_section
