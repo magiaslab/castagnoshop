@@ -1,6 +1,6 @@
 ---
 title: contatti
-page_css_class: lorem-ipsum
+page_css_class: Contatti
 white_header: false
 sections:
   - section_id: lorem-ipsum
