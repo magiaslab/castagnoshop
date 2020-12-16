@@ -47,7 +47,7 @@ sections:
     section_id: promotion_section
     title: Scopri la nostra ospitalità
     subtitle: News e promo 2021
-    image: images/promo.jpg
+    image: images/DSC_4418.jpg
     cta:
       title: Discover
       url: /store
