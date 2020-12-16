@@ -16,7 +16,7 @@ sections:
     section_id: promotion_section
     title: Le promo ospitalità
     subtitle: Cerca la tua prossima vacanza
-    image: images/promo.jpg
+    image: images/DSC_4418.jpg
     cta:
       title: Discover
       url: /store
