@@ -5,11 +5,9 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/DSC_4352.jpg
-    content: >-
-      # Real, beautiful plants right to your door
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+    content: |-
+      # I prodotti del Castagno Toscana
+      Per gustare i sapori ed i profumi del Castagno tutto l'anno
     actions:
       - title: See all items
         url: /store
