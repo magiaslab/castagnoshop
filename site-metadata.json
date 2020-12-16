@@ -1,13 +1,13 @@
 {
     "favicon": "images/favicon.png",
-    "logo_dark": "images/logo.svg",
-    "logo_light": "images/logo-white.svg",
+    "logo_dark": "images/logo.png",
+    "logo_light": "images/logo-white.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
     "bg_image_secondary": "/images/leaf-light-grey.svg",
     "bg_image_product": "/images/leaf.svg",
-    "snipcart_api_key": "",
-    "footer_text": "Copyright 2020 Planty Inc. All rights reserved.",
+    "snipcart_api_key": "NWQ3NTEzZDctNzQ3MC00N2ZhLWI3YzMtMTk5YTc2MTg0NTZmNjM3NDM1NDA3NDM0ODc3MTQ5",
+    "footer_text": "Copyright 2020 Il Castagno Toscana All rights reserved.",
     "palette": "default",
     "palettes": {
         "default": {
@@ -40,5 +40,5 @@
             "url": "/faq"
         }
     ],
-    "title": "Planty"
+    "title": "Castagno Shop"
 }
