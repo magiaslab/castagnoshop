@@ -46,7 +46,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Scopri la nostra ospitalità
-    subtitle: from $149.99
+    subtitle: News e promo 2021
     image: images/promo.jpg
     cta:
       title: Discover
