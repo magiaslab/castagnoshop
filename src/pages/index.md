@@ -49,7 +49,7 @@ sections:
     subtitle: News e promo 2021
     image: images/DSC_4418.jpg
     cta:
-      title: Discover
+      title: Crea la tua prossima vacanza
       url: /store
 template: home
 ---
