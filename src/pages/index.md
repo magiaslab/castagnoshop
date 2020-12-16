@@ -45,7 +45,7 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: Scopri
+    title: Scopri la nostra ospitalità
     subtitle: from $149.99
     image: images/promo.jpg
     cta:
