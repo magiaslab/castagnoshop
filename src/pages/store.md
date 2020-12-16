@@ -15,7 +15,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Le promo ospitalità
-    subtitle: from $149.99
+    subtitle: Cerca la tua prossima vacanza
     image: images/promo.jpg
     cta:
       title: Discover
