@@ -9,7 +9,7 @@ sections:
       # I prodotti del Castagno Toscana
       Per gustare i sapori ed i profumi del Castagno tutto l'anno
     actions:
-      - title: See all items
+      - title: Vedi tutti i prodotti
         url: /store
         arrow: true
   - type: featured_products_section
