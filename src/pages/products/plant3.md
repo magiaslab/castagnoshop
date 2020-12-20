@@ -4,7 +4,7 @@ price: '150.00'
 title: Curabitur eu tempor
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/IMG_3435.jpg
-default_original_image: images/plant3-lg.jpg
+default_original_image: images/groovy-crane.jpg
 featured: true
 order: 3
 category: src/pages/category/cactuses.md
