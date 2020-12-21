@@ -32,7 +32,7 @@ export default class Product extends React.Component {
                                 <svg width="20" height="10" viewBox="0 0 20 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M2.73859 4.30914H19.75V5.59286H2.63961L6.06986 8.98864L5.17449 9.875L0.25 5L5.17449 0.125L6.06986 1.01136L2.73859 4.30914Z" fill="#88DD9B"/>
                                 </svg>                        
-                                see all products
+                                Torna ai prodotti
                             </Link>
                         </div>
                         <figure className="product__figure">
@@ -51,7 +51,7 @@ export default class Product extends React.Component {
                                 );
                             })())}
                             <div className="product__price">
-                                ${_.get(this.props, 'pageContext.frontmatter.price', null)}
+                                €{_.get(this.props, 'pageContext.frontmatter.price', null)}
                             </div>
                             <article className="product__description">
                                 {_.get(this.props, 'pageContext.frontmatter.description', null)}
@@ -64,7 +64,7 @@ export default class Product extends React.Component {
                         let category_page = getPageByFilePath(this.props.pageContext.pages, _.get(this.props, 'pageContext.frontmatter.category', null));
                         return (
                             <section className="content__row">
-                                <h2 className="content__row-title">Related</h2>
+                                <h2 className="content__row-title">Prodotti simili</h2>
                                 <ProductGrid {...this.props} product_pages={product_pages} category_url={_.get(category_page, 'url', null)} cssClass={'store__product-grid'} site={this.props.pageContext.site} />
                             </section>
                         );
