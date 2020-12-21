@@ -11,6 +11,13 @@ section: Store
 template: product
 ---
 
-# Sed consectetur
+**Selezione di Tartufi             
+Prodotti da “Tartufi Germignani” (San Miniato)**
 
-Sed consectetur eleifend neque. Morbi fringilla velit neque, quis aliquet diam rutrum eget. Praesent dui leo, iaculis non auctor sed, accumsan at felis. Suspendisse eu pretium justo. Curabitur et velit quis justo elementum iaculis. Fusce sed tortor id diam rhoncus accumsan. In cursus sagittis eros non congue.
+* Patè di lardo e tartufo 75g  € 9,00
+* Crema di carciofi e tartufo bianco 80g  € 8,00
+* Salsa tartufata confezione piccola 75g  € 5,00
+* Crema Tartufata confezione grande 500g   € 17,00
+* Crema di funghi porcini e tartufo bianco 80g   € 9,00
+* Condimento a base di burro con tartufo bianco e bianchetto 75g  € 8,00
+* Carpaccio di tartufo nero d’estate 160g (sgocciolato 80g) € 31,00
