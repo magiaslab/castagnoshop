@@ -1,12 +1,10 @@
 ---
 id: '5'
-price: '220.00'
-title: Vestibulum eget
-description: >-
-  Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
-  volutpat massa dolor id purus.
-default_thumbnail_image: images/plant5.jpg
-default_original_image: images/plant5-lg.jpg
+price: '32,00'
+title: Confezione Deluxe
+description: Tre assaggi per un natale con i fiocchi!
+default_thumbnail_image: images/IMG_3435.jpg
+default_original_image: images/IMG_3435.jpg
 featured: true
 order: 5
 category: src/pages/category/bigplants.md
@@ -14,6 +12,8 @@ section: Store
 template: product
 ---
 
-# Vestibulum eget
+**La confezione contiene:**
 
-Cras molestie faucibus ipsum ut vulputate. Suspendisse potenti. Donec nec diam odio. Nam ut tempus odio. Vivamus at vehicula felis. Ut ex ante, feugiat at risus eget, facilisis iaculis ex. Suspendisse sagittis sed turpis nec tincidunt. Suspendisse ac venenatis nibh. Pellentesque non maximus lacus, in commodo sapien. Nulla facilisi. Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis volutpat massa dolor id purus. Suspendisse et lobortis dui. Maecenas pretium blandit ex id lobortis. Vestibulum eget sapien vitae nibh porttitor bibendum sed eget nibh.
+* -Vino rosato Poggio ai Ginepri (Bolgheri) 2019 375ml
+* -Vino rosso Terre del Marchesato Emilio Primo (Bolgheri) 2018 375ml 
+* -Crema tartufata confezione grande 500g prodotta da “Tartufi Germignani” (San Miniato)
