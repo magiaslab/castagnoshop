@@ -1,7 +1,7 @@
 ---
 id: '3'
 price: '150.00'
-title: Curabitur eu tempor
+title: 'Confezione '
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/IMG_3435.jpg
 default_original_image: images/groovy-crane.jpg
