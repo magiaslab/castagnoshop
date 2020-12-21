@@ -2,7 +2,7 @@
 id: '7'
 price: '18.90'
 title: Selezione di tartufi
-description: Fusce sed tortor id diam rhoncus accumsan.
+description: Salse e creme al tartufo
 default_thumbnail_image: images/plant7.jpg
 default_original_image: images/plant7-lg.jpg
 order: 7
