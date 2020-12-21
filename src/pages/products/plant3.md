@@ -1,6 +1,6 @@
 ---
 id: '3'
-price: '150.00'
+price: '€ 32,00'
 title: Confezione Deluxe
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/IMG_3435.jpg
