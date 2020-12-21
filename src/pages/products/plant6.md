@@ -1,6 +1,6 @@
 ---
 id: '6'
-price: '100.00'
+price: '16,50'
 title: Tartufo e Porcini
 description: Tutto per un pranzo tra profumi e sapori
 default_thumbnail_image: images/plant6.jpg
