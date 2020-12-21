@@ -4,7 +4,7 @@ price: '16,50'
 title: Tartufo e Porcini
 description: Tutto per un pranzo tra profumi e sapori
 default_thumbnail_image: images/WhatsApp Image 2020-12-04 at 09.38.13 (10).jpeg
-default_original_image: images/plant6-lg.jpg
+default_original_image: images/royal-celery.jpeg
 order: 6
 category: src/pages/category/bigplants.md
 section: Store
