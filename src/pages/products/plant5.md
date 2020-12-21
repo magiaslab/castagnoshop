@@ -2,7 +2,7 @@
 id: '5'
 price: '220.00'
 title: Confezione Deluxe
-description: Tre assaggi per un natale con i fico
+description: Tre assaggi per un natale con i fiocchi!
 default_thumbnail_image: images/plant5.jpg
 default_original_image: images/plant5-lg.jpg
 featured: true
