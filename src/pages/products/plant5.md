@@ -3,7 +3,7 @@ id: '5'
 price: '32,00'
 title: Confezione Deluxe
 description: Tre assaggi per un natale con i fiocchi!
-default_thumbnail_image: images/plant5.jpg
+default_thumbnail_image: images/IMG_3435.jpg
 default_original_image: images/plant5-lg.jpg
 featured: true
 order: 5
