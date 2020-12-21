@@ -3,7 +3,7 @@ id: '7'
 price: '9,00 - 31,00'
 title: Selezione di tartufi
 description: Salse e creme al tartufo
-default_thumbnail_image: images/plant7.jpg
+default_thumbnail_image: images/WhatsApp Image 2020-12-04 at 09.38.13 (9).jpeg
 default_original_image: images/plant7-lg.jpg
 order: 7
 category: src/pages/category/bigplants.md
