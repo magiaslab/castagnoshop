@@ -38,7 +38,7 @@ sections:
           Non dimenticate di provare i nostri prodotti tipici o di prenotare una
           visita con degustazione in una cantina della zona!
         image: images/DSC_4350.jpg
-      - title: We think plants are the future
+      - title: Il Castagno
         description: >-
           Il Residence Il Castagno Toscana è situato in collina, a meno di un
           chilometro dal caratteristico borgo medievale di Campiglia Marittima.
