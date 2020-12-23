@@ -71,6 +71,6 @@ sections:
     image: images/DSC_4418.jpg
     cta:
       title: Scoprile sul sito
-      url: /store
+      url: 'https://www.ilcastagnotoscana.com/'
 template: advanced
 ---
