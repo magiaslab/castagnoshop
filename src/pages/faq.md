@@ -48,7 +48,7 @@ sections:
     image: images/DSC_4350.jpg
     section_id: contact_section
     address: Via di San Vincenzo 15 - 57021 Campiglia Marittima
-    phone: +
+    phone: +39 349.4644914
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 template: advanced
