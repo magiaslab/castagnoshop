@@ -14,13 +14,9 @@ sections:
     questions:
       - question: L'ordine
         answer: >-
-          Now that’s a frequent one all right, ain’t it? Your answer to this
-          should *manage customer expectations*. Just like [a good checkout
-          flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
-
-            - US shipping will take between 3 to 5 business days.
-            - International shipping will take between 5 and 10 business days.
-            - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+          Puoi ordinare direttamente dal sito, concludi il carrello,
+          successivamente ti invieremo una mail per concordare spedizione e
+          pagamento per ricevere i tuoi prodotti
       - question: How do refunds and returns work?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
