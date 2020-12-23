@@ -67,7 +67,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Scopri le offerte 2021
-    subtitle: from $149.99
+    subtitle: Costruisci la tua prossima vacanza
     image: images/DSC_4418.jpg
     cta:
       title: Discover
