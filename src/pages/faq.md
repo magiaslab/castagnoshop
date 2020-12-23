@@ -49,7 +49,7 @@ sections:
     section_id: contact_section
     address: Via di San Vincenzo 15 - 57021 Campiglia Marittima
     phone: +39 349.4644914
-    email: geeks@snipcart.com
+    email: info@ilcastagnotoscana.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 template: advanced
 ---
