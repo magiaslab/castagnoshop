@@ -70,7 +70,7 @@ sections:
     subtitle: Costruisci la tua prossima vacanza
     image: images/DSC_4418.jpg
     cta:
-      title: Discover
+      title: Scoprile sul sito
       url: /store
 template: advanced
 ---
