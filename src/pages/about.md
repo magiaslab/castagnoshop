@@ -66,7 +66,7 @@ sections:
         image: images/DSC_4347.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: 'Scopri le offerte '
+    title: Scopri le offerte 2021
     subtitle: from $149.99
     image: images/DSC_4418.jpg
     cta:
