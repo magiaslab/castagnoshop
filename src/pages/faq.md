@@ -17,12 +17,6 @@ sections:
           Puoi ordinare direttamente dal sito, concludi il carrello,
           successivamente ti invieremo una mail per concordare spedizione e
           pagamento per ricevere i tuoi prodotti
-      - question: How do you handle sensitive customer information?
-        answer: >-
-          [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
-          am I right? Make sure you’re as transparent as possible with your data
-          handling process. Or, if you’re using Snipcart, just refer to [our ToS
-          and DPA](http://bit.ly/2YJwlyt).
       - question: Rapid-fire questions
         answer: >-
           Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
