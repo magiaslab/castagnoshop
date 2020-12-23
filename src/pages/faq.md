@@ -50,6 +50,6 @@ sections:
     address: Via di San Vincenzo 15 - 57021 Campiglia Marittima
     phone: +39 349.4644914
     email: info@ilcastagnotoscana.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: 'https://g.page/il-castagno-toscana?share'
 template: advanced
 ---
