@@ -66,7 +66,7 @@ sections:
         image: images/DSC_4347.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: 'Scopri le offerte '
     subtitle: from $149.99
     image: images/DSC_4418.jpg
     cta:
