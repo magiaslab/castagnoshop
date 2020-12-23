@@ -7,8 +7,8 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: 'Ordini, resi e spedizione'
     subtitle: >-
-      All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+      Ordina i prodotti che vuoi, ti contatteremo e accorderemo su spedizione e
+      pagamento
   - type: faq_section
     section_id: faq_section
     questions:
