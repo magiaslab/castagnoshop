@@ -21,14 +21,22 @@ sections:
     bulletpoints:
       - title: Immersi nella natura
         description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
+          La struttura si trova in una posizione tranquilla, in collina, a solo
+          1 Km dal centro abitato di Campiglia Marittima e 5 km da San Vincenzo.
+          Alloggerete immersi nel nostro castagneto senza essere troppo distanti
+          da tutte le comodità.
+
+          Dal Residence Il Castagno Toscana potrete raggiungere facilmente sia
+          servizi utili come supermercati, uffici postali e negozi, sia le
+          principali bellezze a attrattive della nostra Costa degli Etruschi.
+
+          In pochi minuti è possibile arrivare alla spiagge libere o attrezzate
+          ed alle spiagge in cui sono ammessi animali; nelle vicinanze vi
+          aspettano inoltre i Parchi della Val di Cornia e i caratteristici
+          borghi toscani.
+
+          Non dimenticate di provare i nostri prodotti tipici o di prenotare una
+          visita con degustazione in una cantina della zona!
         image: images/DSC_4350.jpg
       - title: We think plants are the future
         description: >-
